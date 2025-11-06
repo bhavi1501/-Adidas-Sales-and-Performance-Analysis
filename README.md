@@ -65,5 +65,6 @@ To perform detailed analysis of Adidas sales data to identify areas of strength 
 Conclusion
 This Adidas sales analysis reveals clear patterns in product performance, regional sales distribution, and seasonal trends. Footwear—particularly Men's Street Footwear—drives the majority of revenue, while the West region and retailers like West Gear dominate sales. The data underscores opportunities to boost underperforming regions, optimize retailer partnerships, and align inventory with seasonal demand. By leveraging these insights, Adidas can make informed, data-driven decisions to increase sales, improve profitability, and strengthen market presence.
 
-    Conclusion
+Conclusion
+
 This Adidas sales analysis reveals clear patterns in product performance, regional sales distribution, and seasonal trends. Footwear—particularly Men's Street Footwear—drives the majority of revenue, while the West region and retailers like West Gear dominate sales. The data underscores opportunities to boost underperforming regions, optimize retailer partnerships, and align inventory with seasonal demand. By leveraging these insights, Adidas can make informed, data-driven decisions to increase sales, improve profitability, and strengthen market presence.
